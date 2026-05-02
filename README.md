@@ -22,24 +22,20 @@ A personalized Neovim setup built on **LazyVim**, optimized for a high-performan
 
 ### 📂 File Structure
 
-The configuration follows a modular Lua structure^^:
+The configuration follows a modular Lua structure:
 
-* **`init.lua`**: Entry point that bootstraps the configuration^^.
+* **`init.lua`**: Entry point that bootstraps the configuration.
 * **`lua/config/`**:
-  * `autocmds.lua`: Automated system events^^.
-  * `keymaps.lua`: Custom shortcuts tailored for my workflow^^.
-  * `options.lua`: Core Neovim settings and behavior^^.
-* **`lua/plugins/`**: Individual plugin specifications for modularity^^.
+  * `autocmds.lua`: Automated system events.
+  * `keymaps.lua`: Custom shortcuts tailored for my workflow.
+  * `options.lua`: Core Neovim settings and behavior.
+* **`lua/plugins/`**: Individual plugin specifications for modularity.
 
 ---
 
 ### 🛠️ Environment Context
 
-This setup is tuned for my specific hardware and academic needs^^:
-
-* **Hardware**: Primary machine features an **AMD Ryzen 7 5800H**^^.
-* **Focus**: Java/JavaFX development and CS coursework^^.
-* **Cross-Platform**: Configured to sync and function seamlessly between Windows and Linux environments^^.
+* **Cross-Platform**: Configured to sync and function seamlessly between Windows and Linux environments.
 
 ---
 
