@@ -1,6 +1,4 @@
-# 💤 LazyVim
-
-## Romitha's Neovim Configuration
+# Romitha's Neovim Configuration
 
 A personalized Neovim setup built on **LazyVim**, optimized for a high-performance development workflow on Windows and Linux. This configuration balances aesthetic customization with functional power for Java development and database management.
 
